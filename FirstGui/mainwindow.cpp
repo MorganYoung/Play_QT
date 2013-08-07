@@ -12,3 +12,8 @@ MainWindow::~MainWindow()
 {
     delete ui;
 }
+
+void MainWindow::on_lineEdit_textEdited(const QString &arg1)
+{
+
+}
